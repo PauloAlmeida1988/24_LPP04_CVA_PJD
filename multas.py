@@ -6,3 +6,6 @@ if velocidade > 80:
     print(f"Valor da multa: €{multa:.2f}")
 else:
     print("Você está dentro do limite de velocidade.")
+#teste
+
+#teste
