@@ -12,3 +12,5 @@ if velocidade > 80:
 else:
     # Caso não tenha ultrapassado o limite, exibe uma mensagem informativa
     print("Você está dentro do limite de velocidade.")
+    
+#COMENTÁRIO 1    
