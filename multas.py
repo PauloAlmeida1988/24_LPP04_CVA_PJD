@@ -14,3 +14,5 @@ else:
     print("Você está dentro do limite de velocidade.")
     
 #COMENTÁRIO 1    
+
+#COMENTÁRIO 2
